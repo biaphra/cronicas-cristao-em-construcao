@@ -44,7 +44,7 @@ Para definir uma credencial própria, informe uma senha com ao menos 16 caracter
 
 ```bash
 APP_ENV=local ADMIN_EMAIL=admin@example.local
-ADMIN_PASSWORD='3gTAXR9"o9A&7;v8' php database/seed.php
+ADMIN_PASSWORD='crie_uma_senha' php database/seed.php
 ```
 
 Em `APP_ENV=production`, o seed se recusa a criar/atualizar o administrador sem `ADMIN_PASSWORD`. Guarde a senha temporária local em um gerenciador seguro; uma nova execução sem `ADMIN_PASSWORD` gera outra senha e invalida a anterior.
