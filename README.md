@@ -1,3 +1,15 @@
+<p align="center">
+  <img
+    src="assets/img/project-cover.png"
+    alt="Capa do projeto Crônicas de um Cristão em Construção"
+    width="100%"
+  >
+</p>
+
+# Crônicas de um Cristão em Construção
+
+CMS editorial próprio desenvolvido com PHP 8, PDO SQLite, HTML semântico, CSS e JavaScript Vanilla.
+
 # Crônicas de um Cristão em Construção
 
 CMS editorial próprio e leve, construído com PHP 8, PDO SQLite, HTML semântico, CSS e JavaScript Vanilla.
