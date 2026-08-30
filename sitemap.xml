@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url><loc>http://localhost:8000/</loc></url>
+  <url><loc>http://localhost:8000/cronicas.php</loc></url>
+  <url><loc>http://localhost:8000/sobre.php</loc></url>
+  <url><loc>http://localhost:8000/contato.php</loc></url>
+  <url><loc>http://localhost:8000/cronica.php?slug=deus-eu-sei-esperar</loc></url>
+  <url><loc>http://localhost:8000/cronica.php?slug=manual-de-instrucoes-da-vida-adulta</loc></url>
+  <url><loc>http://localhost:8000/cronica.php?slug=pedi-paciencia</loc></url>
+  <url><loc>http://localhost:8000/cronica.php?slug=silencio-nao-e-ausencia</loc></url>
+  <url><loc>http://localhost:8000/cronica.php?slug=amar-sem-vencer-discussao</loc></url>
+  <url><loc>http://localhost:8000/cronica.php?slug=recomecar-tambem-e-caminhar</loc></url>
+  <url><loc>http://localhost:8000/cronica.php?slug=quando-a-fe-cabe-no-pequeno</loc></url>
+</urlset>
